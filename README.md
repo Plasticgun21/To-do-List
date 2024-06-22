@@ -48,9 +48,8 @@ In diesem Projekt entwickle ich eine Anwendung, mit der man Aufgaben erstellen, 
 | 8.A  | 20.6.24    | Jeanneret   | Fälligkeitsdatum setzen        | 30 min        |
 | 9.A  | 20.6.24    | Jeanneret   | Suchfunktion implementieren    | 30 min        |
 | 10.A | 20.6.24    | Jeanneret   | Fehleingaben abfangen          | 30 min        |
-| 11.A | 20.6.24    | Jeanneret   | Benutzerfreundliche Oberfläche | 60 min        |
-| 12    | 20.6.24    | Jeanneret   | Testen                         | 60 min        |
-| 13    | 20.6.24    | Jeanneret   | Dokumentation schreiben        | 120 min       |
+| 11.A   | 20.6.24    | Jeanneret   | Testen                         | 60 min        |
+| 12.A    | 20.6.24    | Jeanneret   | Portfolio schreiben        | 120 min       |
 
 Total: 510 min
 
@@ -77,19 +76,18 @@ Ich habe beschlossen, gemäss dem Plan vorzugehen und mit dem Projekt zu beginne
 
 | AP-№ | Datum             | Zuständig   | geplante Zeit | tatsächliche Zeit |
 | ---- | ----------------- | ----------- | ------------- | ----------------- |
-| 1.A  | 20.6.24           | Jeanneret   | 20 min        | 30 min            |
-| 2.A  | 20.6.24           | Jeanneret   | 30 min        | 40 min            | 
+| 1.A  | 20.6.24           | Jeanneret   | 20 min        | 40 min            |
+| 2.A  | 20.6.24           | Jeanneret   | 30 min        | 60 min            | 
 | 3.A  | 20.6.24           | Jeanneret   | 20 min        | 30 min            |
-| 4.A  | 20.6.24           | Jeanneret   | 20 min        | 25 min            |
+| 4.A  | 20.6.24           | Jeanneret   | 20 min        | 50 min            |
 | 5.A  | 20.6.24           | Jeanneret   | 30 min        | 35 min            |
-| 6.A  | 20.6.24           | Jeanneret   | 30 min        | 40 min            |
+| 6.A  | 20.6.24           | Jeanneret   | 30 min        | 45 min            |
 | 7.A  | 20.6.24           | Jeanneret   | 30 min        | 35 min            |
-| 8.A  | 20.6.24           | Jeanneret   | 30 min        | 40 min            |
-| 9.A  | 20.6.24           | Jeanneret   | 30 min        | 35 min            |
-| 10.A | 20.6.24           | Jeanneret   | 30 min        | 30 min            |
-| 11.A | 20.6.24           | Jeanneret   | 60 min        | 70 min            |
-| 12    | 20.6.24           | Jeanneret   | 60 min        | 60 min            |
-| 13    | 20.6.24           | Jeanneret   | 120 min       | 120 min           |
+| 8.A  | 20.6.24           | Jeanneret   | 30 min        | 50 min            |
+| 9.A  | 20.6.24           | Jeanneret   | 30 min        | 60 min            |
+| 10.A | 20.6.24           | Jeanneret   | 30 min        | 70 min            |
+| 11.A    | 20.6.24           | Jeanneret   | 60 min        | 60 min            |
+| 12.B    | 20.6.24           | Jeanneret   | 120 min       | 120 min           |
 
 ## 5 Kontrollieren
 
@@ -101,19 +99,15 @@ Ich habe beschlossen, gemäss dem Plan vorzugehen und mit dem Projekt zu beginne
 | 2.1  | 20.6.24    | OK       | Jeanneret  |
 | 3.1  | 20.6.24    | OK       | Jeanneret  |
 | 4.1  | 20.6.24    | OK       | Jeanneret  |
-| 5.1  | 20.6.24    | OK       | Jeanneret  |
-| 6.1  | 20.6.24    | OK       | Jeanneret  |
-| 7.1  | 20.6.24    | OK       | Jeanneret  |
-| 8.1  | 20.6.24    | OK       | Jeanneret  |
-| 9.1  | 20.6.24    | OK       | Jeanneret  |
-| 10.1 | 20.6.24    | OK       | Jeanneret  |
+| 5.1  | 20.6.24    | NOK       | Jeanneret  |
+| 6.1  | 20.6.24    | NOK       | Jeanneret  |
+| 7.1  | 20.6.24    | NOK       | Jeanneret  |
+| 8.1  | 20.6.24    | NOK       | Jeanneret  |
+| 9.1  | 20.6.24    | NOK       | Jeanneret  |
+| 10.1 | 20.6.24    | NOK       | Jeanneret  |
 
 ### 5.2 Testbericht
 
-Die To-Do-Liste-Anwendung wurde erfolgreich getestet. Alle grundlegenden Funktionen wie Aufgaben hinzufügen, abhaken, löschen und bearbeiten haben wie erwartet funktioniert. Auch die zusätzlichen Funktionen wie Aufgaben priorisieren, in Kategorien einteilen, Fälligkeitsdaten setzen und die Suchfunktion haben korrekt funktioniert. Die Anwendung ist benutzerfreundlich und reagiert auf Fehleingaben mit entsprechenden Fehlermeldungen. Die Performance der Anwendung ist zufriedenstellend, und die Benutzeroberfläche ist intuitiv gestaltet. Kleinere Anpassungen wurden während der Testphase durchgeführt, um die Benutzererfahrung weiter zu verbessern. Insgesamt wurde das Projekt erfolgreich abgeschlossen.
+Die To-Do-Liste-Anwendung wurde nicht ganz erfolgreich getestet. Das Hinzufügen und Löschen funktionieren gut. Aber der Rest von den Sachen haben nicht funktioniert. Es muss viel überarbeitet werden den das Produkt ist nicht fertig.
 
 ## 6 Auswerten
-
-### 6.1 Reflexion
-
-Das Projekt war insgesamt erfolgreich und hat meine Erwartungen erfüllt. Die Planung und Umsetzung verliefen weitgehend wie geplant, obwohl einige Aufgaben mehr Zeit in Anspruch nahmen als ursprünglich vorgesehen. Durch kontinuierliches Testen und Anpassen konnte ich sicherstellen, dass die Anwendung stabil und benutzerfreundlich ist. Die gesammelten Erfahrungen und das Feedback aus dem Testen werden mir in zukünftigen Projekten helfen, noch effizienter und zielgerichteter zu arbeiten.
