@@ -66,7 +66,7 @@ Total: 510 min
 
 ## 3 Entscheiden
 
-Ich habe beschlossen, gemäß dem Plan vorzugehen und mit dem Projekt zu beginnen.
+Ich habe beschlossen, gemäss dem Plan vorzugehen und mit dem Projekt zu beginnen.
 
 ## 4 Realisieren
 
