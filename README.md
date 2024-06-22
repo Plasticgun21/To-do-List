@@ -10,6 +10,8 @@ Jeanneret
 
 In diesem Projekt entwickle ich eine Anwendung, mit der man Aufgaben erstellen, verwalten und löschen kann.
 
+### 1.2 Userstories
+
 | US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                |
 | ---- | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional    | Als Benutzer möchte ich eine Startseite haben, damit ich einen Überblick über die Applikation habe.                                                      |
@@ -24,27 +26,15 @@ In diesem Projekt entwickle ich eine Anwendung, mit der man Aufgaben erstellen, 
 | 10   | Muss            | Qualität      | Als Benutzer möchte ich, dass Fehleingaben abgefangen werden, damit sichergestellt ist, dass meine Aufgaben korrekt erfasst werden.                            |
 | 11   | Muss            | Randbedingung | Als Benutzer möchte ich, dass die Applikation benutzerfreundlich ist, damit ich sie intuitiv und effizient nutzen kann.                      |
 
-### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  | PC ist gestartet | Applikation öffnen | Applikation öffnet sich. |
-| 2.1  | Applikation ist gestartet | Aufgabe hinzufügen | Aufgabe erscheint in der Liste. |
-| 3.1  | Aufgabe ist in der Liste      | Aufgabe abhaken | Aufgabe wird als erledigt markiert. |
-| 4.1  | Aufgabe ist in der Liste   | Aufgabe löschen | Aufgabe wird aus der Liste entfernt. |
-| 5.1  | Aufgabe ist in der Liste | Aufgabe bearbeiten | Geänderte Aufgabe wird in der Liste angezeigt. |
-| 6.1  | Aufgabe ist in der Liste      | Priorität setzen | Aufgabe wird mit neuer Priorität angezeigt. |
-| 7.1  | Aufgabe ist in der Liste | Kategorie zuweisen | Aufgabe wird unter der ausgewählten Kategorie angezeigt. |
-| 8.1  | Aufgabe ist in der Liste | Fälligkeitsdatum setzen | Aufgabe wird mit Fälligkeitsdatum angezeigt. |
-| 9.1  | Aufgabe ist in der Liste  | Aufgabe suchen | Gesuchte Aufgabe wird in der Liste hervorgehoben. |
-| 10.1 | Eingabefeld | Leeres Feld absenden | Fehlermeldung wird angezeigt. |
-
-### 1.4 Diagramme
+### 1.3 Diagramme
 
 ![Screenshot 2024-06-22 114553](https://github.com/Plasticgun21/To-do-List/assets/110892742/9da61371-4673-4238-ae20-bdcc20f365bf)
 
 
 ## 2 Planen
+
+### 2.1 Arbeitspakete
 
 | AP-№ | Frist      | Zuständig   | Beschreibung                  | Geplante Zeit |
 | ---- | ---------- | ----------- | ----------------------------- | ------------- |
@@ -63,6 +53,21 @@ In diesem Projekt entwickle ich eine Anwendung, mit der man Aufgaben erstellen, 
 | 13    | 20.6.24    | Jeanneret   | Dokumentation schreiben        | 120 min       |
 
 Total: 510 min
+
+### 2.2 Testfälle
+
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | ------------ | ------- | ----------------- |
+| 1.1  | PC ist gestartet | Applikation öffnen | Applikation öffnet sich. |
+| 2.1  | Applikation ist gestartet | Aufgabe hinzufügen | Aufgabe erscheint in der Liste. |
+| 3.1  | Aufgabe ist in der Liste      | Aufgabe abhaken | Aufgabe wird als erledigt markiert. |
+| 4.1  | Aufgabe ist in der Liste   | Aufgabe löschen | Aufgabe wird aus der Liste entfernt. |
+| 5.1  | Aufgabe ist in der Liste | Aufgabe bearbeiten | Geänderte Aufgabe wird in der Liste angezeigt. |
+| 6.1  | Aufgabe ist in der Liste      | Priorität setzen | Aufgabe wird mit neuer Priorität angezeigt. |
+| 7.1  | Aufgabe ist in der Liste | Kategorie zuweisen | Aufgabe wird unter der ausgewählten Kategorie angezeigt. |
+| 8.1  | Aufgabe ist in der Liste | Fälligkeitsdatum setzen | Aufgabe wird mit Fälligkeitsdatum angezeigt. |
+| 9.1  | Aufgabe ist in der Liste  | Aufgabe suchen | Gesuchte Aufgabe wird in der Liste hervorgehoben. |
+| 10.1 | Eingabefeld | Leeres Feld absenden | Fehlermeldung wird angezeigt. |
 
 ## 3 Entscheiden
 
@@ -103,7 +108,7 @@ Ich habe beschlossen, gemäss dem Plan vorzugehen und mit dem Projekt zu beginne
 | 9.1  | 20.6.24    | OK       | Jeanneret  |
 | 10.1 | 20.6.24    | OK       | Jeanneret  |
 
-### Testbericht
+### 5.2 Testbericht
 
 Die To-Do-Liste-Anwendung wurde erfolgreich getestet. Alle grundlegenden Funktionen wie Aufgaben hinzufügen, abhaken, löschen und bearbeiten haben wie erwartet funktioniert. Auch die zusätzlichen Funktionen wie Aufgaben priorisieren, in Kategorien einteilen, Fälligkeitsdaten setzen und die Suchfunktion haben korrekt funktioniert. Die Anwendung ist benutzerfreundlich und reagiert auf Fehleingaben mit entsprechenden Fehlermeldungen. Die Performance der Anwendung ist zufriedenstellend, und die Benutzeroberfläche ist intuitiv gestaltet. Kleinere Anpassungen wurden während der Testphase durchgeführt, um die Benutzererfahrung weiter zu verbessern. Insgesamt wurde das Projekt erfolgreich abgeschlossen.
 
