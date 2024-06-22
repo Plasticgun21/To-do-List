@@ -41,7 +41,7 @@ In diesem Projekt entwickle ich eine Anwendung, mit der man Aufgaben erstellen, 
 
 ### 1.4 Diagramme
 
- 
+![Screenshot 2024-06-22 114553](https://github.com/Plasticgun21/To-do-List/assets/110892742/9da61371-4673-4238-ae20-bdcc20f365bf)
 Usecase Diagramm
 
 ## 2 Planen
